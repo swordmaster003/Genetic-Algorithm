@@ -10,7 +10,7 @@ Include three demo scene for showing the genetic algorithm process:
 
 ## Workflow
 
-![image](https://github.com/swordmaster003/Genetic-Algorithm/blob/master/Screenshots/1.png)
+![image](https://github.com/swordmaster003/Genetic-Algorithm/blob/master/Screenshots/3.png)
 
 ## Features
 
